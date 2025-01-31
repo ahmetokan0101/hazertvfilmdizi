@@ -26,69 +26,108 @@
           "color": "#E50914",
           "episodes": [
             {
-              "id": "1",
-          "title": "Wednesday 1.Bölüm",
-          "description": "Wednesday Netflix Özel Yapım Dizisi",
-          "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
-          "videoUrl": "https://storage.diziyou.live/episodes/24701_tr/720p.m3u8",
-          "type": "series",
-          "addedDate": "2024-02-20T12:00:00.000Z",
-          "additionalInfo": {
-            "Kategori": "Netflix",
-            "Platform": "Netflix",
-            "Tür": "Komedi/Fantastik"
-          }
-        },
-        {
-          "id": "2",
-          "title": "Wednesday 2.Bölüm",
-          "description": "Wednesday Netflix Özel Yapım Dizisi",
-          "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
-          "videoUrl": "https://storage.diziyou.live/episodes/24702_tr/720p.m3u8",
-          "type": "series",
-          "additionalInfo": {
-            "Kategori": "Netflix",
-            "Platform": "Netflix",
-            "Tür": "Komedi/Fantastik"
-          }
-        },
-        {
-          "id": "3",
-          "title": "Wednesday 3.Bölüm",
-          "description": "Wednesday Netflix Özel Yapım Dizisi",
-          "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
-          "videoUrl": "https://storage.diziyou.live/episodes/24703_tr/720p.m3u8",
-          "type": "series",
-          "additionalInfo": {
-            "Kategori": "Netflix",
-            "Platform": "Netflix",
-            "Tür": "Komedi/Fantastik"
-          }
-        },
-        {
-          "id": "4",
-          "title": "Wednesday 4.Bölüm",
-          "description": "Wednesday Netflix Özel Yapım Dizisi",
-          "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
-          "videoUrl": "https://storage.diziyou.live/episodes/24704/720p.m3u8",
-          "type": "series",
-          "additionalInfo": {
-            "Kategori": "Netflix",
-            "Platform": "Netflix",
-            "Tür": "Komedi/Fantastik"
-          }
-        },
-        {
-          "id": "5",
-          "title": "Wednesday 5.Bölüm",
-          "description": "Wednesday Netflix Özel Yapım Dizisi",
-          "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
-          "videoUrl": "https://storage.diziyou.live/episodes/24705_tr/720p.m3u8",
-          "type": "series",
-          "additionalInfo": {
-            "Kategori": "Netflix",
-            "Platform": "Netflix",
-            "Tür": "Komedi/Fantastik"
+             "id": "1",
+              "title": "Wednesday 1.Bölüm",
+              "description": "Wednesday Netflix Özel Yapım Dizisi",
+              "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
+              "videoUrl": "https://storage.diziyou.live/episodes/24701_tr/720p.m3u8",
+              "type": "series",
+              "addedDate": "2024-02-20T12:00:00.000Z",
+              "additionalInfo": {
+                "Kategori": "Netflix",
+                "Platform": "Netflix",
+                "Tür": "Komedi/Fantastik"
+              }
+            },
+            {
+              "id": "2",
+              "title": "Wednesday 2.Bölüm",
+              "description": "Wednesday Netflix Özel Yapım Dizisi",
+              "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
+              "videoUrl": "https://storage.diziyou.live/episodes/24702_tr/720p.m3u8",
+              "type": "series",
+              "additionalInfo": {
+                "Kategori": "Netflix",
+                "Platform": "Netflix",
+                "Tür": "Komedi/Fantastik"
+              }
+            },
+            {
+              "id": "3",
+              "title": "Wednesday 3.Bölüm",
+              "description": "Wednesday Netflix Özel Yapım Dizisi",
+              "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
+              "videoUrl": "https://storage.diziyou.live/episodes/24703_tr/720p.m3u8",
+              "type": "series",
+              "additionalInfo": {
+                "Kategori": "Netflix",
+                "Platform": "Netflix",
+                "Tür": "Komedi/Fantastik"
+              }
+            },
+            {
+              "id": "4",
+              "title": "Wednesday 4.Bölüm",
+              "description": "Wednesday Netflix Özel Yapım Dizisi",
+              "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
+              "videoUrl": "https://storage.diziyou.live/episodes/24704/720p.m3u8",
+              "type": "series",
+              "additionalInfo": {
+                "Kategori": "Netflix",
+                "Platform": "Netflix",
+                "Tür": "Komedi/Fantastik"
+              }
+            },
+            {
+              "id": "5",
+              "title": "Wednesday 5.Bölüm",
+              "description": "Wednesday Netflix Özel Yapım Dizisi",
+              "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
+              "videoUrl": "https://storage.diziyou.live/episodes/24705_tr/720p.m3u8",
+              "type": "series",
+              "additionalInfo": {
+                "Kategori": "Netflix",
+                "Platform": "Netflix",
+                "Tür": "Komedi/Fantastik"
+              }
+            },
+            {
+              "id": "6",
+              "title": "Wednesday 6.Bölüm",
+              "description": "Wednesday Netflix Özel Yapım Dizisi",
+              "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
+              "videoUrl": "https://storage.diziyou.live/episodes/24706_tr/720p.m3u8",
+              "type": "series",
+              "additionalInfo": {
+                "Kategori": "Netflix",
+                "Platform": "Netflix",
+                "Tür": "Komedi/Fantastik"
+              }
+            },
+            {
+              "id": "7",
+              "title": "Wednesday 7.Bölüm",
+              "description": "Wednesday Netflix Özel Yapım Dizisi",
+              "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
+              "videoUrl": "https://storage.diziyou.live/episodes/24707_tr/720p.m3u8",
+              "type": "series",
+              "additionalInfo": {
+                "Kategori": "Netflix",
+                "Platform": "Netflix",
+                "Tür": "Komedi/Fantastik"
+              }
+            },
+            {
+              "id": "8",
+              "title": "Wednesday 8.Bölüm",
+              "description": "Wednesday Netflix Özel Yapım Dizisi",
+              "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
+              "videoUrl": "https://storage.diziyou.live/episodes/24708_tr/720p.m3u8",
+              "type": "series",
+              "additionalInfo": {
+                "Kategori": "Netflix",
+                "Platform": "Netflix",
+                "Tür": "Komedi/Fantastik"
               }
             }
           ]
