@@ -1,6 +1,21 @@
 {
   "categories": [
     {
+      "name": "Ulusal",
+      "icon": "tv",
+      "color": "#0D47A1"
+    },
+    {
+      "name": "Haber",
+      "icon": "newspaper",
+      "color": "#E65100"
+    },
+    {
+      "name": "Spor",
+      "icon": "sports_soccer",
+      "color": "#1B5E20"
+    },
+    {
       "name": "Yabancı Diziler",
       "icon": "movie",
       "color": "#1976D2",
@@ -118,21 +133,6 @@
           ]
         }
       ]
-    },
-    {
-      "name": "Ulusal",
-      "icon": "tv",
-      "color": "#0D47A1"
-    },
-    {
-      "name": "Haber",
-      "icon": "newspaper",
-      "color": "#E65100"
-    },
-    {
-      "name": "Spor",
-      "icon": "sports_soccer",
-      "color": "#1B5E20"
     },
     {
       "name": "Netflix",
