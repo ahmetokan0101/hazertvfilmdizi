@@ -17,11 +17,6 @@
     },
     {
       "name": "Netflix",
-  "icon": "play_arrow",
-  "color": "#E50914",
-  "subcategories": [
-    {
-      "name": "Wednesday",
       "icon": "play_arrow",
       "color": "#E50914",
       "subcategories": [
