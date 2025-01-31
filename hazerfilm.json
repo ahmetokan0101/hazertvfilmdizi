@@ -1,140 +1,163 @@
-[
-  {
-    "id": "1",
-    "title": "Galatasaray - Fenerbahçe",
-    "description": "Süper Lig 2023-2024 Sezonu 23. Hafta Derbisi",
-    "thumbnailUrl": "https://img.fanatik.com.tr/img/75/1200x695/63e3af4066a97c63140a0a8b.jpg",
-    "videoUrl": "https://example.com/derbi/gs-fb-2024.m3u8",
-    "type": "match",
-    "addedDate": "2024-02-24T19:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": "Derbiler",
-      "Lig": "Süper Lig",
-      "Sezon": "2023-2024"
+{
+  "categories": [
+    {
+      "name": "Ulusal",
+      "icon": "tv",
+      "color": "#0D47A1"
+    },
+    {
+      "name": "Haber",
+      "icon": "newspaper",
+      "color": "#E65100"
+    },
+    {
+      "name": "Spor",
+      "icon": "sports_soccer",
+      "color": "#1B5E20"
+    },
+    {
+      "name": "Netflix",
+      "icon": "play_arrow",
+      "color": "#E50914",
+      "subcategories": [
+        {
+          "name": "Wednesday",
+          "icon": "play_arrow",
+          "color": "#E50914",
+          "seasons": [
+            {
+              "season": 1,
+              "episodes": [
+                {
+                  "id": "1",
+                  "title": "Wednesday 1.Bölüm",
+                  "description": "Wednesday Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/24701_tr/720p.m3u8",
+                  "type": "series",
+                  "addedDate": "2024-02-20T12:00:00.000Z",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Komedi/Fantastik"
+                  }
+                },
+                {
+                  "id": "2",
+                  "title": "Wednesday 2.Bölüm",
+                  "description": "Wednesday Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/24702_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Komedi/Fantastik"
+                  }
+                },
+                {
+                  "id": "3",
+                  "title": "Wednesday 3.Bölüm",
+                  "description": "Wednesday Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/24703_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Komedi/Fantastik"
+                  }
+                },
+                {
+                  "id": "4",
+                  "title": "Wednesday 4.Bölüm",
+                  "description": "Wednesday Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/24704/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Komedi/Fantastik"
+                  }
+                },
+                {
+                  "id": "5",
+                  "title": "Wednesday 5.Bölüm",
+                  "description": "Wednesday Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/24705_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Komedi/Fantastik"
+                  }
+                },
+                {
+                  "id": "6",
+                  "title": "Wednesday 6.Bölüm",
+                  "description": "Wednesday Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/24706_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Komedi/Fantastik"
+                  }
+                },
+                {
+                  "id": "7",
+                  "title": "Wednesday 7.Bölüm",
+                  "description": "Wednesday Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/24707_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Komedi/Fantastik"
+                  }
+                },
+                {
+                  "id": "8",
+                  "title": "Wednesday 8.Bölüm",
+                  "description": "Wednesday Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/24708_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Komedi/Fantastik"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Müzik",
+      "icon": "music_note",
+      "color": "#880E4F",
+      "content": [
+        {
+          "id": "10",
+          "title": "TRT MÜZİK",
+          "description": "TRT MÜZİK",
+          "thumbnailUrl": "https://image.hurimg.com/i/hurriyet/75/0x0/612372c04e3fe0044c2d6a10.jpg",
+          "videoUrl": "https://video.twimg.com/amplify_video/1884348626371059712/vid/avc1/1280x720/HQ1wx8DpeM7lhG7K.mp4?tag=16",
+          "type": "tv",
+          "addedDate": "2024-02-21T12:00:00.000Z",
+          "additionalInfo": {
+            "Kategori": "Müzik",
+            "Ülke": "Türkiye"
+          }
+        }
+      ]
     }
-  },
-  {
-    "id": "2",
-    "title": "Kızılbayır",
-    "description": "Kızılbayır BluTV Özel Yapım Dizisi",
-    "thumbnailUrl": "https://www.blutv.com/img/content/shows/kizilbayir/kizilbayir_vertical.jpg",
-    "videoUrl": "https://example.com/blutv/kizilbayir.m3u8",
-    "type": "series",
-    "addedDate": "2024-02-20T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": "BluTV",
-      "Platform": "BluTV",
-      "Tür": "Dram"
-    }
-  },
-  {
-    "id": "3",
-    "title": "Wednesday",
-    "description": "Wednesday Netflix Özel Yapım Dizisi",
-    "thumbnailUrl": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQeIeKt7LlqIJPKrT4aQijclj7K43xRtYPb2lxwkWaoqZi7gIwXDiZJ9l8KyqgG6QR4T3BTwA2ymkaHQYvYBTxl2G1zh3puqsCh4QMXAUgdfnfZsBIHXZGJgDZrGpAHjVvM1Q-c7bZ3mB1ObBl2GdGDrC.jpg",
-    "videoUrl": "https://example.com/netflix/wednesday.m3u8",
-    "type": "series",
-    "addedDate": "2024-02-20T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": "Netflix",
-      "Platform": "Netflix",
-      "Tür": "Komedi/Fantastik"
-    }
-  },
-  {
-    "id": "4",
-    "title": "Oppenheimer",
-    "description": "2024 Oscar Adayı Film",
-    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
-    "videoUrl": "https://example.com/movies/oppenheimer.m3u8",
-    "type": "movie",
-    "addedDate": "2024-02-20T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": "Yabancı Filmler",
-      "Tür": "Biyografi/Dram"
-    }
-  },
-  {
-    "id": "5",
-    "title": "G.O.R.A.",
-    "description": "Türk Bilim Kurgu Komedi Filmi",
-    "thumbnailUrl": "https://tr.web.img4.acsta.net/pictures/bzp/01/29832.jpg",
-    "videoUrl": "https://example.com/movies/gora.m3u8",
-    "type": "movie",
-    "addedDate": "2024-02-20T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": "Yerli Filmler",
-      "Tür": "Komedi/Bilim Kurgu"
-    }
-  },
-  {
-    "id": "6",
-    "title": "The Last of Us",
-    "description": "HBO Max Özel Yapım Dizisi",
-    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg",
-    "videoUrl": "https://example.com/hbomax/lastofus.m3u8",
-    "type": "series",
-    "addedDate": "2024-02-20T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": "HBO Max",
-      "Platform": "HBO Max",
-      "Tür": "Drama/Aksiyon"
-    }
-  },
-  {
-    "id": "7",
-    "title": "The Boys",
-    "description": "Amazon Prime Özel Yapım Dizisi",
-    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
-    "videoUrl": "https://example.com/prime/theboys.m3u8",
-    "type": "series",
-    "addedDate": "2024-02-20T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": "Prime",
-      "Platform": "Amazon Prime",
-      "Tür": "Aksiyon/Drama"
-    }
-  },
-  {
-    "id": "8",
-    "title": "Loki",
-    "description": "Disney+ Marvel Dizisi",
-    "thumbnailUrl": "https://lumiere-a.akamaihd.net/v1/images/p_loki_20616_02_c1561470.jpeg",
-    "videoUrl": "https://example.com/disney/loki.m3u8",
-    "type": "series",
-    "addedDate": "2024-02-20T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": "Disney+",
-      "Platform": "Disney+",
-      "Tür": "Aksiyon/Macera"
-    }
-  },
-  {
-    "id": "9",
-    "title": "Şahsiyet",
-    "description": "GAIN Özel Yapım Dizisi",
-    "thumbnailUrl": "https://www.gain.tv/_next/image?url=https%3A%2F%2Fcdn.gain.tv%2Fcontent%2Fthumbnails%2Fsahsiyet.jpg&w=1920&q=75",
-    "videoUrl": "https://example.com/gain/sahsiyet.m3u8",
-    "type": "series",
-    "addedDate": "2024-02-20T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": "Gain",
-      "Platform": "Gain",
-      "Tür": "Dram/Suç"
-    }
-  },
-  {
-    "id": "10",
-    "title": "Fenerbahçe - Beşiktaş",
-    "description": "Süper Lig 2023-2024 Sezonu 19. Hafta Derbisi",
-    "thumbnailUrl": "https://img.fanatik.com.tr/img/75/1200x695/65a7cc7066a97c5e8c8e3d24.jpg",
-    "videoUrl": "https://example.com/derbi/fb-bjk-2024.m3u8",
-    "type": "match",
-    "addedDate": "2024-01-21T17:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": "Derbiler",
-      "Lig": "Süper Lig",
-      "Sezon": "2023-2024"
-    }
-  }
-] 
+  ]
+}
