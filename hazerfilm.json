@@ -122,6 +122,235 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Squid Game",
+          "icon": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+          "color": "#E50914",
+          "subcategories": [
+            {
+              "name": "Squid Game 1. Sezon",
+              "icon": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+              "color": "#E50914",
+              "episodes": [
+                {
+                  "id": "1",
+                  "title": "Squid Game 1.Bölüm",
+                  "description": "Squid Game Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/11111_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "2",
+                  "title": "Squid Game 2.Bölüm",
+                  "description": "Squid Game Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/11112_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "3",
+                  "title": "Squid Game 3.Bölüm",
+                  "description": "Squid Game Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/11113_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "4",
+                  "title": "Squid Game 4.Bölüm",
+                  "description": "Squid Game Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/11114_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "5",
+                  "title": "Squid Game 5.Bölüm",
+                  "description": "Squid Game Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/11115_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "6",
+                  "title": "Squid Game 6.Bölüm",
+                  "description": "Squid Game Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/11116_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "7",
+                  "title": "Squid Game 7.Bölüm",
+                  "description": "Squid Game Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/11117_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "8",
+                  "title": "Squid Game 8.Bölüm",
+                  "description": "Squid Game Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/11118_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "9",
+                  "title": "Squid Game 9.Bölüm",
+                  "description": "Squid Game Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/11119_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Squid Game 2. Sezon",
+              "icon": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+              "color": "#E50914",
+              "episodes": [
+                {
+                  "id": "1",
+                  "title": "Squid Game 1.Bölüm",
+                  "description": "Squid Game Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/115601_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "2",
+                  "title": "Squid Game 2.Bölüm",
+                  "description": "Squid Game Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/115602_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "3",
+                  "title": "Squid Game 3.Bölüm",
+                  "description": "Squid Game Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/115603_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "4",
+                  "title": "Squid Game 4.Bölüm",
+                  "description": "Squid Game Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/115604_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "5",
+                  "title": "Squid Game 5.Bölüm",
+                  "description": "Squid Game Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/115605_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "6",
+                  "title": "Squid Game 6.Bölüm",
+                  "description": "Squid Game Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/115606_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "7",
+                  "title": "Squid Game 7.Bölüm",
+                  "description": "Squid Game Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/squid-game.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/115607_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
