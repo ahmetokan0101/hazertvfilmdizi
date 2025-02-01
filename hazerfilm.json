@@ -351,6 +351,483 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Stranger Things",
+          "icon": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+          "color": "#E50914",
+          "subcategories": [
+            {
+              "name": "Stranger Things 1. Sezon",
+              "icon": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+              "color": "#E50914",
+              "episodes": [
+                {
+                  "id": "1",
+                  "title": "Stranger Things 1.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40901_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "2",
+                  "title": "Stranger Things 2.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40902_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "3",
+                  "title": "Stranger Things 3.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40903_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "4",
+                  "title": "Stranger Things 4.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40904_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "5",
+                  "title": "Stranger Things 5.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40905_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "6",
+                  "title": "Stranger Things 6.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40906_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "7",
+                  "title": "Stranger Things 7.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40907_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "8",
+                  "title": "Stranger Things 8.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40908_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Stranger Things 2. Sezon",
+              "icon": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+              "color": "#E50914",
+              "episodes": [
+                {
+                  "id": "1",
+                  "title": "Stranger Things 1.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40909_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "2",
+                  "title": "Stranger Things 2.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40910_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "3",
+                  "title": "Stranger Things 3.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40911_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "4",
+                  "title": "Stranger Things 4.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40912_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "5",
+                  "title": "Stranger Things 5.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40913_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "6",
+                  "title": "Stranger Things 6.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40914_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "7",
+                  "title": "Stranger Things 7.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40915_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "8",
+                  "title": "Stranger Things 8.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40916_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "9",
+                  "title": "Stranger Things 9.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40917_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Stranger Things 3. Sezon",
+              "icon": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+              "color": "#E50914",
+              "episodes": [
+                {
+                  "id": "1",
+                  "title": "Stranger Things 1.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40918_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "2",
+                  "title": "Stranger Things 2.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40919_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "3",
+                  "title": "Stranger Things 3.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40920_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "4",
+                  "title": "Stranger Things 4.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40921_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "5",
+                  "title": "Stranger Things 5.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40922_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "6",
+                  "title": "Stranger Things 6.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40923_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "7",
+                  "title": "Stranger Things 7.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40924_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "8",
+                  "title": "Stranger Things 8.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40925_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Stranger Things 4. Sezon",
+              "icon": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+              "color": "#E50914",
+              "episodes": [
+                {
+                  "id": "1",
+                  "title": "Stranger Things 1.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40926_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "2",
+                  "title": "Stranger Things 2.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40927_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "3",
+                  "title": "Stranger Things 3.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40928_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "4",
+                  "title": "Stranger Things 4.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40929_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "5",
+                  "title": "Stranger Things 5.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40930_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "6",
+                  "title": "Stranger Things 6.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40931_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "7",
+                  "title": "Stranger Things 7.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40932_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "8",
+                  "title": "Stranger Things 8.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40933_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                },
+                {
+                  "id": "9",
+                  "title": "Stranger Things 9.Bölüm",
+                  "description": "Stranger Things Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/stranger-things.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/40934_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Bilim Kurgu/Gerilim"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
