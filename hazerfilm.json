@@ -7,12 +7,12 @@
       "subcategories": [
         {
           "name": "Wednesday",
-          "icon": "movie",
+          "icon": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
           "color": "#E50914",
           "subcategories": [
             {
               "name": "Wednesday 1. Sezon",
-              "icon": "play_arrow",
+              "icon": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
               "color": "#E50914",
               "episodes": [
                 {
