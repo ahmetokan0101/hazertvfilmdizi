@@ -825,11 +825,25 @@
                     "Tür": "Bilim Kurgu/Gerilim"
                   }
                 }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+                ]
+                }
+                ]
+                },
+                {
+                  "id": "2",
+                  "title": "Kızılbayır",
+                  "description": "Kızılbayır BluTV Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.blutv.com/img/content/shows/kizilbayir/kizilbayir_vertical.jpg",
+                  "videoUrl": "https://example.com/blutv/kizilbayir.m3u8",
+                  "type": "series",
+                  "addedDate": "2024-02-20T12:00:00.000Z",
+                  "additionalInfo": {
+                    "Kategori": "BluTV",
+                    "Platform": "BluTV",
+                    "Tür": "Dram"
+                  }
+                }
+                ]
+                }
+                ]
+                }
