@@ -825,25 +825,102 @@
                     "Tür": "Bilim Kurgu/Gerilim"
                   }
                 }
-                ]
-                }
-                ]
-                },
-                {
-                  "id": "2",
-                  "title": "Kızılbayır",
-                  "description": "Kızılbayır BluTV Özel Yapım Dizisi",
-                  "thumbnailUrl": "https://www.blutv.com/img/content/shows/kizilbayir/kizilbayir_vertical.jpg",
-                  "videoUrl": "https://example.com/blutv/kizilbayir.m3u8",
-                  "type": "series",
-                  "addedDate": "2024-02-20T12:00:00.000Z",
-                  "additionalInfo": {
-                    "Kategori": "BluTV",
-                    "Platform": "BluTV",
-                    "Tür": "Dram"
-                  }
-                }
-                ]
-                }
-                ]
-                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Filmler",
+      "icon": "movie",
+      "color": "#E50914",
+      "subcategories": [
+        {
+          "name": "Aksiyon",
+          "icon": "local_movies",
+          "color": "#E50914",
+          "content": [
+            {
+              "id": "movie_1",
+              "title": "John Wick 4",
+              "description": "John Wick, Yüksek Masa'ya karşı savaşında giderek artan zorluklarla karşı karşıyadır. Özgürlüğünü kazanmak için, dünyanın dört bir yanındaki en güçlü suç örgütlerine karşı savaşmak zorundadır.",
+              "thumbnailUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+              "videoUrl": "https://example.com/movies/john-wick-4.m3u8",
+              "type": "movie",
+              "additionalInfo": {
+                "Kategori": "Aksiyon",
+                "Platform": "Sinema",
+                "Tür": "Aksiyon/Gerilim",
+                "Yıl": "2023"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Komedi",
+          "icon": "local_movies",
+          "color": "#E50914",
+          "content": [
+            {
+              "id": "movie_2",
+              "title": "Barbie",
+              "description": "Barbie, kusursuz bir dünyada yaşayan kusursuz bir bebektir. Ancak gerçek dünyaya adım attığında, her şey değişir ve yeni maceralara atılır.",
+              "thumbnailUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+              "videoUrl": "https://example.com/movies/barbie.m3u8",
+              "type": "movie",
+              "additionalInfo": {
+                "Kategori": "Komedi",
+                "Platform": "Sinema",
+                "Tür": "Komedi/Fantastik",
+                "Yıl": "2023"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Dram",
+          "icon": "local_movies",
+          "color": "#E50914",
+          "content": [
+            {
+              "id": "movie_3",
+              "title": "Oppenheimer",
+              "description": "J. Robert Oppenheimer'ın atom bombasını geliştirme sürecini ve bunun sonuçlarını anlatan biyografik drama.",
+              "thumbnailUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+              "videoUrl": "https://example.com/movies/oppenheimer.m3u8",
+              "type": "movie",
+              "additionalInfo": {
+                "Kategori": "Dram",
+                "Platform": "Sinema",
+                "Tür": "Dram/Biyografi",
+                "Yıl": "2023"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Bilim Kurgu",
+          "icon": "local_movies",
+          "color": "#E50914",
+          "content": [
+            {
+              "id": "movie_4",
+              "title": "Dune",
+              "description": "Uzak bir gelecekte geçen destansı bir macera. Paul Atreides, ailesi ve halkının geleceği için en tehlikeli gezegene seyahat etmek zorundadır.",
+              "thumbnailUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+              "videoUrl": "https://example.com/movies/dune.m3u8",
+              "type": "movie",
+              "additionalInfo": {
+                "Kategori": "Bilim Kurgu",
+                "Platform": "Sinema",
+                "Tür": "Bilim Kurgu/Macera",
+                "Yıl": "2021"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
