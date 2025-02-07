@@ -830,8 +830,8 @@
           ]
         },
         {
-          "name": "Kızılbayır",
-          "icon": "https://www.diziyou.live/wp-content/uploads/posters/kizilbayir.jpg",
+          "name": "Netflix Filmleri",
+          "icon": "movie",
           "color": "#E50914",
           "episodes": [
             {
