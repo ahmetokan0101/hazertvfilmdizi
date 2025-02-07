@@ -9,22 +9,8 @@
           "name": "Wednesday",
           "icon": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
           "color": "#E50914",
-          "episodes": [
+          "subcategories": [
             {
-              "id": "1",
-              "title": "Wednesday 1.Bölüm",
-              "description": "Wednesday Netflix Özel Yapım Dizisi",
-              "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
-              "videoUrl": "https://storage.diziyou.live/episodes/24701_tr/720p.m3u8",
-              "type": "series",
-              "additionalInfo": {
-                "Kategori": "Netflix",
-                "Platform": "Netflix",
-                "Tür": "Komedi/Fantastik"
-              }
-            },
-            {
-              "id": "2",
               "name": "Wednesday 1. Sezon",
               "icon": "https://www.diziyou.live/wp-content/uploads/posters/wednesday.jpg",
               "color": "#E50914",
@@ -839,45 +825,25 @@
                     "Tür": "Bilim Kurgu/Gerilim"
                   }
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Netflix Filmleri",
-          "icon": "movie",
-          "color": "#E50914",
-          "episodes": [
-            {
-              "id": "kizilbayir_1",
-              "title": "Kızılbayır",
-              "description": "Kızılbayır Netflix Özel Yapım Filmi",
-              "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/kizilbayir.jpg",
-              "videoUrl": "https://storage.diziyou.live/movies/kizilbayir_tr/720p.m3u8",
-              "type": "movie",
-              "additionalInfo": {
-                "Kategori": "Netflix",
-                "Platform": "Netflix",
-                "Tür": "Dram"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "title": "Kızılbayır",
-      "description": "Kızılbayır BluTV Özel Yapım Dizisi",
-      "thumbnailUrl": "https://www.blutv.com/img/content/shows/kizilbayir/kizilbayir_vertical.jpg",
-      "videoUrl": "https://example.com/blutv/kizilbayir.m3u8",
-      "type": "series",
-      "addedDate": "2024-02-20T12:00:00.000Z",
-      "additionalInfo": {
-        "Kategori": "BluTV",
-        "Platform": "BluTV",
-        "Tür": "Dram"
-      }
-    }
-  ]
-}
+                ]
+                }
+                ]
+                },
+                {
+                  "id": "2",
+                  "title": "Kızılbayır",
+                  "description": "Kızılbayır BluTV Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://www.blutv.com/img/content/shows/kizilbayir/kizilbayir_vertical.jpg",
+                  "videoUrl": "https://example.com/blutv/kizilbayir.m3u8",
+                  "type": "series",
+                  "addedDate": "2024-02-20T12:00:00.000Z",
+                  "additionalInfo": {
+                    "Kategori": "BluTV",
+                    "Platform": "BluTV",
+                    "Tür": "Dram"
+                  }
+                }
+                ]
+                }
+                ]
+                }
