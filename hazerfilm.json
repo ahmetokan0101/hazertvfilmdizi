@@ -936,6 +936,749 @@
                   }
                 }
               ]
+            },
+            {
+              "name": "Breaking Bad 2. Sezon",
+              "icon": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+              "color": "#4A148C",
+              "episodes": [
+                {
+                  "id": "bb_201",
+                  "title": "Breaking Bad 1.Bölüm",
+                  "description": "Breaking Bad 2. Sezon 1. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10558_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_202",
+                  "title": "Breaking Bad 2.Bölüm",
+                  "description": "Breaking Bad 2. Sezon 2. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10559_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_203",
+                  "title": "Breaking Bad 3.Bölüm",
+                  "description": "Breaking Bad 2. Sezon 3. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10560_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_204",
+                  "title": "Breaking Bad 4.Bölüm",
+                  "description": "Breaking Bad 2. Sezon 4. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10561_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_205",
+                  "title": "Breaking Bad 5.Bölüm",
+                  "description": "Breaking Bad 2. Sezon 5. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10562_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_206",
+                  "title": "Breaking Bad 6.Bölüm",
+                  "description": "Breaking Bad 2. Sezon 6. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10563_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_207",
+                  "title": "Breaking Bad 7.Bölüm",
+                  "description": "Breaking Bad 2. Sezon 7. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10564_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_208",
+                  "title": "Breaking Bad 8.Bölüm",
+                  "description": "Breaking Bad 2. Sezon 8. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10565_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_209",
+                  "title": "Breaking Bad 9.Bölüm",
+                  "description": "Breaking Bad 2. Sezon 9. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10566_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_210",
+                  "title": "Breaking Bad 10.Bölüm",
+                  "description": "Breaking Bad 2. Sezon 10. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10567_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_211",
+                  "title": "Breaking Bad 11.Bölüm",
+                  "description": "Breaking Bad 2. Sezon 11. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10568_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_212",
+                  "title": "Breaking Bad 12.Bölüm",
+                  "description": "Breaking Bad 2. Sezon 12. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10569_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_213",
+                  "title": "Breaking Bad 13.Bölüm",
+                  "description": "Breaking Bad 2. Sezon 13. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10570_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Breaking Bad 3. Sezon",
+              "icon": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+              "color": "#4A148C",
+              "episodes": [
+                {
+                  "id": "bb_301",
+                  "title": "Breaking Bad 1.Bölüm",
+                  "description": "Breaking Bad 3. Sezon 1. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10571_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_302",
+                  "title": "Breaking Bad 2.Bölüm",
+                  "description": "Breaking Bad 3. Sezon 2. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10572_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_303",
+                  "title": "Breaking Bad 3.Bölüm",
+                  "description": "Breaking Bad 3. Sezon 3. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10573_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_304",
+                  "title": "Breaking Bad 4.Bölüm",
+                  "description": "Breaking Bad 3. Sezon 4. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10574_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_305",
+                  "title": "Breaking Bad 5.Bölüm",
+                  "description": "Breaking Bad 3. Sezon 5. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10575_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_306",
+                  "title": "Breaking Bad 6.Bölüm",
+                  "description": "Breaking Bad 3. Sezon 6. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10576_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_307",
+                  "title": "Breaking Bad 7.Bölüm",
+                  "description": "Breaking Bad 3. Sezon 7. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10577_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_308",
+                  "title": "Breaking Bad 8.Bölüm",
+                  "description": "Breaking Bad 3. Sezon 8. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10578_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_309",
+                  "title": "Breaking Bad 9.Bölüm",
+                  "description": "Breaking Bad 3. Sezon 9. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10579_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_310",
+                  "title": "Breaking Bad 10.Bölüm",
+                  "description": "Breaking Bad 3. Sezon 10. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10580_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_311",
+                  "title": "Breaking Bad 11.Bölüm",
+                  "description": "Breaking Bad 3. Sezon 11. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10581_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_312",
+                  "title": "Breaking Bad 12.Bölüm",
+                  "description": "Breaking Bad 3. Sezon 12. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10582_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_313",
+                  "title": "Breaking Bad 13.Bölüm",
+                  "description": "Breaking Bad 3. Sezon 13. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10583_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Breaking Bad 4. Sezon",
+              "icon": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+              "color": "#4A148C",
+              "episodes": [
+                {
+                  "id": "bb_401",
+                  "title": "Breaking Bad 1.Bölüm",
+                  "description": "Breaking Bad 4. Sezon 1. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10584_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_402",
+                  "title": "Breaking Bad 2.Bölüm",
+                  "description": "Breaking Bad 4. Sezon 2. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10585_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_403",
+                  "title": "Breaking Bad 3.Bölüm",
+                  "description": "Breaking Bad 4. Sezon 3. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10586_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_404",
+                  "title": "Breaking Bad 4.Bölüm",
+                  "description": "Breaking Bad 4. Sezon 4. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10587_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_405",
+                  "title": "Breaking Bad 5.Bölüm",
+                  "description": "Breaking Bad 4. Sezon 5. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10588_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_406",
+                  "title": "Breaking Bad 6.Bölüm",
+                  "description": "Breaking Bad 4. Sezon 6. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10589_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_407",
+                  "title": "Breaking Bad 7.Bölüm",
+                  "description": "Breaking Bad 4. Sezon 7. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10590_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_408",
+                  "title": "Breaking Bad 8.Bölüm",
+                  "description": "Breaking Bad 4. Sezon 8. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10591_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_409",
+                  "title": "Breaking Bad 9.Bölüm",
+                  "description": "Breaking Bad 4. Sezon 9. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10592_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_410",
+                  "title": "Breaking Bad 10.Bölüm",
+                  "description": "Breaking Bad 4. Sezon 10. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10593_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_411",
+                  "title": "Breaking Bad 11.Bölüm",
+                  "description": "Breaking Bad 4. Sezon 11. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10594_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_412",
+                  "title": "Breaking Bad 12.Bölüm",
+                  "description": "Breaking Bad 4. Sezon 12. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10595_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_413",
+                  "title": "Breaking Bad 13.Bölüm",
+                  "description": "Breaking Bad 4. Sezon 13. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10596_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Breaking Bad 5. Sezon",
+              "icon": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+              "color": "#4A148C",
+              "episodes": [
+                {
+                  "id": "bb_501",
+                  "title": "Breaking Bad 1.Bölüm",
+                  "description": "Breaking Bad 5. Sezon 1. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10597_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_502",
+                  "title": "Breaking Bad 2.Bölüm",
+                  "description": "Breaking Bad 5. Sezon 2. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10598_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_503",
+                  "title": "Breaking Bad 3.Bölüm",
+                  "description": "Breaking Bad 5. Sezon 3. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10599_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_504",
+                  "title": "Breaking Bad 4.Bölüm",
+                  "description": "Breaking Bad 5. Sezon 4. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10600_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_505",
+                  "title": "Breaking Bad 5.Bölüm",
+                  "description": "Breaking Bad 5. Sezon 5. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10601_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_506",
+                  "title": "Breaking Bad 6.Bölüm",
+                  "description": "Breaking Bad 5. Sezon 6. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10602_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_507",
+                  "title": "Breaking Bad 7.Bölüm",
+                  "description": "Breaking Bad 5. Sezon 7. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10603_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_508",
+                  "title": "Breaking Bad 8.Bölüm",
+                  "description": "Breaking Bad 5. Sezon 8. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10604_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_509",
+                  "title": "Breaking Bad 9.Bölüm",
+                  "description": "Breaking Bad 5. Sezon 9. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10605_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_510",
+                  "title": "Breaking Bad 10.Bölüm",
+                  "description": "Breaking Bad 5. Sezon 10. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10606_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_511",
+                  "title": "Breaking Bad 11.Bölüm",
+                  "description": "Breaking Bad 5. Sezon 11. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10607_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_512",
+                  "title": "Breaking Bad 12.Bölüm",
+                  "description": "Breaking Bad 5. Sezon 12. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10608_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_513",
+                  "title": "Breaking Bad 13.Bölüm",
+                  "description": "Breaking Bad 5. Sezon 13. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10609_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_514",
+                  "title": "Breaking Bad 14.Bölüm",
+                  "description": "Breaking Bad 5. Sezon 14. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10610_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_515",
+                  "title": "Breaking Bad 15.Bölüm",
+                  "description": "Breaking Bad 5. Sezon 15. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10611_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                },
+                {
+                  "id": "bb_516",
+                  "title": "Breaking Bad 16.Bölüm",
+                  "description": "Breaking Bad 5. Sezon 16. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://www.diziyou.live/wp-content/uploads/posters/breaking-bad.jpg",
+                  "videoUrl": "https://storage.diziyou.live/episodes/10612_tr/720p.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Yabancı Diziler",
+                    "Platform": "AMC",
+                    "Tür": "Dram/Suç"
+                  }
+                }
+              ]
             }
           ]
         }
