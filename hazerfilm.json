@@ -1148,8 +1148,263 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Erşan Kuneri",
+          "icon": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+          "color": "#E50914",
+          "subcategories": [
+            {
+              "name": "Erşan Kuneri 1. Sezon",
+              "icon": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+              "color": "#E50914",
+              "episodes": [
+                {
+                  "id": "1",
+                  "title": "Erşan Kuneri 1.Bölüm",
+                  "description": "Erşan Kuneri Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzen.ru/vod/converted-video/vod-content/37/91/36/72/10/14/25/56/88/7/6749c409-1e31-4b4d-8182-0a44aeec2f52/kaltura/desc_28a997c4aaa7584aca84e16eab031fd3/v1nQWIznCuFM/vw=1920,vh=1080,fps=24.00,vbrt=2446858,abrt=131543,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "2",
+                  "title": "Erşan Kuneri 2.Bölüm",
+                  "description": "Erşan Kuneri Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzen.ru/vod/converted-video/vod-content/14/93/59/92/24/83/13/55/38/6/852cada9-cd1c-40c7-b311-af74d9e87544/kaltura/desc_43a4c79f910026b446e872d2df5d47ac/vZfmlZqRloH8/vw=1920,vh=1080,fps=24.00,vbrt=2036365,abrt=131543,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "3",
+                  "title": "Erşan Kuneri 3.Bölüm",
+                  "description": "Erşan Kuneri Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzen.ru/vod/converted-video/vod-content/67/18/75/00/08/89/34/39/27/2/1c79545c-9c80-4513-89c7-358c021c0d61/kaltura/desc_584ba829af229c3a677ae860d03611fa/v_NCzzNf1SUI/vw=1920,vh=1080,fps=24.00,vbrt=2373849,abrt=131543,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "4",
+                  "title": "Erşan Kuneri 4.Bölüm",
+                  "description": "Erşan Kuneri Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzen.ru/vod/converted-video/vod-content/86/30/53/85/52/06/43/08/19/1/4782e386-0436-4997-affa-cb82e4ee87af/kaltura/desc_418d656fe87b311133fc1951fc45b1e4/vy3oHzkVBXBo/vw=1920,vh=1080,fps=24.00,vbrt=2041388,abrt=131544,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "5",
+                  "title": "Erşan Kuneri 5.Bölüm",
+                  "description": "Erşan Kuneri Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzen.ru/vod/converted-video/vod-content/22/31/93/11/71/48/59/00/56/7/c060ceab-4abc-4288-b7ee-c5432f819924/kaltura/desc_801b1696473220de645f4c3d47f58883/vwc9pwsQLEHs/vw=1920,vh=1080,fps=24.00,vbrt=2212914,abrt=131543,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "6",
+                  "title": "Erşan Kuneri 6.Bölüm",
+                  "description": "Erşan Kuneri Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzen.ru/vod/converted-video/vod-content/63/82/99/00/38/79/39/06/02/5/306c66a4-9c4a-45f9-8048-2cc7dc1f6aef/kaltura/desc_3f191ea85d346fe7f97952427da2ed78/vzLiuFQyUtEs/vw=1920,vh=1080,fps=24.00,vbrt=2043123,abrt=131544,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "7",
+                  "title": "Erşan Kuneri 7.Bölüm",
+                  "description": "Erşan Kuneri Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzen.ru/vod/converted-video/vod-content/40/41/62/38/39/57/61/19/81/9/929a25ac-8735-40c0-8c96-79d5c7da0da4/kaltura/desc_418b2d611c900d7b8fdf019cf22bbac8/v35VpW9yxOW4/vw=1920,vh=1080,fps=24.00,vbrt=1911852,abrt=131544,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "8",
+                  "title": "Erşan Kuneri 8.Bölüm",
+                  "description": "Erşan Kuneri Netflix Özel Yapım Dizisi",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzen.ru/vod/converted-video/vod-content/15/81/03/51/26/00/54/10/57/0/67907fe5-71da-44f7-880b-d477e43b8c34/kaltura/desc_c10fc4d87730c9c420ccae13dc2dc65a/v7IX0I8XLUBA/vw=1920,vh=1080,fps=24.00,vbrt=1869142,abrt=131543,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Erşan Kuneri 2. Sezon",
+              "icon": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+              "color": "#E50914",
+              "episodes": [
+                {
+                  "id": "1",
+                  "title": "Erşan Kuneri 1.Bölüm",
+                  "description": "Erşan Kuneri 2. Sezon 1. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzeninfra.com/vod/converted-video/vod-content/87/55/52/99/39/02/51/57/52/0/56c35701-cf56-4afb-a2c4-f96f86f27eda/kaltura/desc_25562667710977de7c42cd39f0db4e67/v-VRjxd-H_xg/vw=1920,vh=1080,fps=24.00,vbrt=1302108,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "2",
+                  "title": "Erşan Kuneri 2.Bölüm",
+                  "description": "Erşan Kuneri 2. Sezon 2. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzeninfra.com/vod/converted-video/vod-content/85/92/80/40/50/38/39/66/89/4/93763af7-ab5c-4ca5-abc0-19d8fb5df3f8/kaltura/desc_f8279de50872a379fa32878d8c25f97d/vnXQGraokTis/vw=1920,vh=1080,fps=24.00,vbrt=1388674,abrt=129381,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "3",
+                  "title": "Erşan Kuneri 3.Bölüm",
+                  "description": "Erşan Kuneri 2. Sezon 3. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzeninfra.com/vod/converted-video/vod-content/66/86/96/08/86/69/20/93/69/9/6b570583-ec47-49bf-82cf-88fa3ac311ba/kaltura/desc_3a9e98330734219ed78c2e8c75fd6dfa/v_b1Fak6jnj4/vw=1920,vh=1080,fps=24.00,vbrt=1227071,abrt=129381,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "4",
+                  "title": "Erşan Kuneri 4.Bölüm",
+                  "description": "Erşan Kuneri 2. Sezon 4. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzeninfra.com/vod/converted-video/vod-content/83/37/25/87/01/17/24/05/bf263e3c-cfdd-44eb-bd91-38769035a7c4/kaltura/desc_a54951c633a65f587241cae832867016/vmqpqSAlDgD0/vw=1920,vh=1080,fps=24.00,vbrt=1322149,abrt=129381,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "5",
+                  "title": "Erşan Kuneri 5.Bölüm",
+                  "description": "Erşan Kuneri 2. Sezon 5. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzeninfra.com/vod/converted-video/vod-content/83/37/25/87/01/17/24/05/bf263e3c-cfdd-44eb-bd91-38769035a7c4/kaltura/desc_a54951c633a65f587241cae832867016/vmqpqSAlDgD0/vw=1920,vh=1080,fps=24.00,vbrt=1322149,abrt=129381,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "6",
+                  "title": "Erşan Kuneri 6.Bölüm",
+                  "description": "Erşan Kuneri 2. Sezon 6. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzeninfra.com/vod/converted-video/vod-content/51/39/96/59/31/41/83/51/79/3/6a824229-8725-4d05-98fc-8aa0e7ad06e6/kaltura/desc_6a7d1723661bea3d656765626cd7e89d/vfgz9sPjjLVc/vw=1920,vh=1080,fps=24.00,vbrt=1045402,abrt=129381,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "7",
+                  "title": "Erşan Kuneri 7.Bölüm",
+                  "description": "Erşan Kuneri 2. Sezon 7. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzeninfra.com/vod/converted-video/vod-content/83/07/14/22/28/20/13/26/35/1/6dd38b4f-a85b-42bd-96a1-a104acd44d4e/kaltura/desc_9f10bb5a150c3cdcac49e7628b6cf666/v0P_OSj158yg/vw=1920,vh=1080,fps=24.00,vbrt=1260060,abrt=129381,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "8",
+                  "title": "Erşan Kuneri 8.Bölüm",
+                  "description": "Erşan Kuneri 2. Sezon 8. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzeninfra.com/vod/converted-video/vod-content/86/92/70/29/70/34/42/55/19/1/e098d4d9-2d90-4022-b29e-db8bf8ef0b6f/kaltura/desc_086111f45d866e1c199e6b95e36938c8/v6b843GQrpUI/vw=1920,vh=1080,fps=24.00,vbrt=1149331,abrt=129381,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "9",
+                  "title": "Erşan Kuneri 9.Bölüm",
+                  "description": "Erşan Kuneri 2. Sezon 9. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzeninfra.com/vod/converted-video/vod-content/50/51/21/62/42/47/74/32/89/3/843acb49-ddad-4745-b8fd-ff507b147e0c/kaltura/desc_3cd631940f4b55394f6c0c2c20b9c5aa/vQO9FPSwaoBI/vw=1920,vh=1080,fps=24.00,vbrt=1212963,abrt=129381,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                },
+                {
+                  "id": "10",
+                  "title": "Erşan Kuneri 10.Bölüm",
+                  "description": "Erşan Kuneri 2. Sezon 10. Bölüm (Türkçe Dublaj)",
+                  "thumbnailUrl": "https://sezonlukdizi6.com/i/dizi400/d/b/1640.jpg",
+                  "videoUrl": "https://cdn.dzeninfra.com/vod/converted-video/vod-content/66/37/90/18/95/96/37/30/80/4/a12f2f48-6707-4225-afe9-dd5897dbba3f/kaltura/desc_024d59d43ad12d3cf58391387ee4dc83/vcaGhEFDgsGQ/vw=1920,vh=1080,fps=24.00,vbrt=1077936,abrt=129381,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
+                  "type": "series",
+                  "additionalInfo": {
+                    "Kategori": "Netflix",
+                    "Platform": "Netflix",
+                    "Tür": "Dram/Gerilim"
+                  }
+                }
+              ]
+            }
+          ]
         }
-      ]
+      ]  
     },
     {
       "name": "Yabancı Diziler",
