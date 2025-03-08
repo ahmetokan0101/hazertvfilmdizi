@@ -1,132 +1,691 @@
 [
   {
-    "id": "30",
-    "title": "ARB",
-    "description": "ARB CANLI YAYIN",
-    "thumbnailUrl": "http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png",
-    "videoUrl": "http://stream.tvcdn.net/azerbaycan/arb.m3u8",
-    "type": "tv",
-    "addedDate": "2024-02-21T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": ["Azerbaycan", "Ulusal"],
-      "Ülke": "Azerbaycan"
-    }
+      "id": "30",
+      "title": "ARB",
+      "description": "ARB CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/azerbaycan\/arb.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Azerbaycan",
+          "Ülke": "Azerbaycan"
+      }
   },
   {
-    "id": "26",
-    "title": "A Haber",
-    "description": "A Haber CANLI YAYIN",
-    "thumbnailUrl": "http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png",
-    "videoUrl": "http://stream.tvcdn.net/haber/a-haber.m3u8",
-    "type": "tv",
-    "addedDate": "2024-02-21T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": ["Haber", "Ulusal"],
-      "Ülke": "Türkiye"
-    }
+      "id": "31",
+      "title": "ARB 24",
+      "description": "ARB 24 CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/9c5f469a-6305-4b57-a591-d44a0bae7bc0.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/azerbaycan\/arb-24.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Azerbaycan",
+          "Ülke": "Azerbaycan"
+      }
   },
   {
-    "id": "8",
-    "title": "CNN Türk",
-    "description": "CNN Türk CANLI YAYIN",
-    "thumbnailUrl": "http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png",
-    "videoUrl": "http://stream.tvcdn.net/haber/cnn-turk.m3u8",
-    "type": "tv",
-    "addedDate": "2024-02-21T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": ["Haber", "Ulusal"],
-      "Ülke": "Türkiye"
-    }
+      "id": "32",
+      "title": "ARB Gunes",
+      "description": "ARB Gunes CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/azerbaycan\/arb-gunes.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Azerbaycan",
+          "Ülke": "Azerbaycan"
+      }
   },
   {
-    "id": "12",
-    "title": "TRT Belgesel",
-    "description": "TRT Belgesel CANLI YAYIN",
-    "thumbnailUrl": "https://tv.canlitv.vip/poster/trt-belgesel.png",
-    "videoUrl": "http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8",
-    "type": "tv",
-    "addedDate": "2024-02-21T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": ["Belgesel", "Ulusal"],
-      "Ülke": "Türkiye"
-    }
+      "id": "33",
+      "title": "AZ TV",
+      "description": "AZ TV CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/bf9a92f4-73b0-487e-ae81-59611351ae9c.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/azerbaycan\/az-tv.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Azerbaycan",
+          "Ülke": "Azerbaycan"
+      }
   },
   {
-    "id": "13",
-    "title": "TRT Çocuk",
-    "description": "TRT Çocuk CANLI YAYIN",
-    "thumbnailUrl": "https://tv.canlitv.vip/poster/trt-cocuk.png",
-    "videoUrl": "http://stream.tvcdn.net/cocuk/trt-cocuk.m3u8",
-    "type": "tv",
-    "addedDate": "2024-02-21T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": ["Çocuk", "Ulusal"],
-      "Ülke": "Türkiye"
-    }
+      "id": "29",
+      "title": "Apa TV",
+      "description": "Apa TV CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/07df8da2-6115-49e7-84fb-717cadf0723d.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/azerbaycan\/apa-tv.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Azerbaycan",
+          "Ülke": "Azerbaycan"
+      }
   },
   {
-    "id": "1741463296577",
-    "title": "Ters Yüz 2",
-    "description": "Ters Yüz 2 İzle",
-    "thumbnailUrl": "https://filmekseni.net/uploads/poster/ters-yuz-2_list.jpg",
-    "videoUrl": "https://cdn991.balcanliselo.online/uploads/encode/vhdcr8jch8gr71rc3d72/master.m3u8",
-    "type": "movie",
-    "addedDate": "2025-03-08T19:48:16.577Z",
-    "additionalInfo": {
-      "Kategori": ["Animasyon", "Aile", "Komedi"],
-      "Ülke": "ABD"
-    }
+      "id": "35",
+      "title": "Az Star TV",
+      "description": "Az Star TV CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/debb1b49-4809-413b-8418-6c176181a1d6.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/azerbaycan\/az-star-tv.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Azerbaycan",
+          "Ülke": "Azerbaycan"
+      }
   },
   {
-    "id": "1741469239320",
-    "title": "Terrifier",
-    "description": "Terrifier İzle",
-    "thumbnailUrl": "https://webteizle.click/i/afis/b/a6517.jpg",
-    "videoUrl": "https://cdn667.argamdavay.click/1561/1080p.m3u8",
-    "type": "movie",
-    "addedDate": "2025-03-08T21:27:19.320Z",
-    "additionalInfo": {
-      "Kategori": ["Korku", "Gerilim", "Yabancı Filmler"],
-      "Ülke": "ABD"
-    }
+      "id": "34",
+      "title": "Azad TV",
+      "description": "Azad TV CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/84f1c014-d4b5-48bf-be6b-97afd96c7cb5.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/azerbaycan\/azad-tv.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Azerbaycan",
+          "Ülke": "Azerbaycan"
+      }
   },
   {
-    "id": "1741469753100",
-    "title": "Komşunun İyisi",
-    "description": "Komşunun İyisi İzle",
-    "thumbnailUrl": "https://www.dizifilmbox.top/wp-content/uploads/2023/07/The-Good-Neighbor-izle-236x350.jpg",
-    "videoUrl": "https://vega-5.getromes.space/hls/xqx2ppzjebokjiqbtfxcb4ae4kss3u4rqg4jakgjberkqk2aeclqdztuzabq/index-v1-a1.m3u8",
-    "type": "movie",
-    "addedDate": "2025-03-08T21:35:53.100Z",
-    "additionalInfo": {
-      "Kategori": ["Gerilim", "Dram", "Yabancı Filmler"],
-      "Ülke": "ABD"
-    }
+      "id": "12",
+      "title": "TRT Belgesel",
+      "description": "TRT Belgesel CANLI YAYIN",
+      "thumbnailUrl": "https:\/\/tv.canlitv.vip\/poster\/trt-belgesel.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/belgesel\/trt-belgesel.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Belgesel",
+          "Ülke": "Türkiye"
+      }
   },
   {
-   "id": "1741469239321",
-    "title": "Tek Yön",
-    "description": "Tek Yön",
-    "thumbnailUrl": "https://filmekseni.net/uploads/poster/one-way_list.jpg",
-    "videoUrl": "https://cdn991.balcanliselo.online/uploads/encode/26ub6tptpnks997y1sse/master.m3u8",
-    "type": "movie",
-    "addedDate": "2025-03-08T22:32:08+01:00",
-    "additionalInfo": {
-      "Kategori": ["Yabancı Filmler", "Aksiyon", "Gerilim"],
-      "Ülke": "ABD"
-    }
+      "id": "3",
+      "title": "Kanal D",
+      "description": "Kanal D CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/a06096dc-fd5e-4103-bfb4-83e612df23ec.png",
+      "videoUrl": "https:\/\/beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr\/master_720p.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Derbiler",
+          "Ülke": "Türkiye"
+      }
   },
   {
-    "id": "1741470339815",
-    "title": "Evde Tek Başına 5: Tatilde Soygun",
-    "description": "Evde Tek Başına 5: Tatilde Soygun",
-    "thumbnailUrl": "https://filmekseni.net/uploads/poster/evde-tek-basina-tatilde-soygun_list.jpg",
-    "videoUrl": "https://cdn991.balcanliselo.online/uploads/encode/bvrpne83u4m1hnumfyfa/master.m3u8",
-    "type": "movie",
-    "addedDate": "2025-03-08T22:52:23+01:00",
-    "additionalInfo": {
-      "Kategori": ["Aile", "Komedi", "Macera", "Yabancı Filmler"],
-      "Ülke": "ABD"
-    }
+      "id": "2",
+      "title": "ATV",
+      "description": "ATV CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png",
+      "videoUrl": "https:\/\/sithmanifest.com\/server\/iron-fist\/2\/02\/OGdENEZwbTlWM1pIRmNiSzhGQmVKaGRQN0NOQW8wbWVqeHQxdjNBR2ZrUTFpQ3RaYVg3b0ZxclJjckliQWI0Uw\/720.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Dini",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "26",
+      "title": "A Haber",
+      "description": "A Haber CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/06e7abd9-0fbb-441f-af63-b895513d3aaa.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/haber\/a-haber.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Haber",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "8",
+      "title": "CNN Türk",
+      "description": "CNN Türk CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/haber\/cnn-turk.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Haber",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "10",
+      "title": "Haber Global",
+      "description": "Haber Global CANLI YAYIN",
+      "thumbnailUrl": "https:\/\/asset.artidijitalmedya.com\/image\/188x188\/channels\/v1\/logo_220.png?v=5",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/haber\/haber-global.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Haber",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "9",
+      "title": "Habertürk",
+      "description": "Habertürk CANLI YAYIN",
+      "thumbnailUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f2\/Habert%C3%BCrk_TV_logo.svg\/1200px-Habert%C3%BCrk_TV_logo.svg.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/haber\/haberturk.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Haber",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "28",
+      "title": "Halk TV",
+      "description": "Halk TV CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/f0bcd016-8730-4700-9156-d6b678f8e554.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/haber\/halk-tv.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Haber",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "23",
+      "title": "TGRT EU",
+      "description": "TGRT EU CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/01032651-eac6-48ea-b6ef-78acf8e95daa.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/ulusal-yurt-disi\/tgrt-eu.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Haber",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "7",
+      "title": "TRT Haber",
+      "description": "TRT Haber CANLI YAYIN",
+      "thumbnailUrl": "https:\/\/www.profdrorhansen.com\/wp-content\/uploads\/2015\/03\/trthaber-saglik-olsun.jpg",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/haber\/trt-haber.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Haber",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "20",
+      "title": "TV 100",
+      "description": "TV 100 CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/d7741078-ccce-47d8-ba1c-a041b659bad6.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/ulusal\/tv-100.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Haber",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "27",
+      "title": "Ülke TV",
+      "description": "Ülke TV CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/e20947de-9a22-4e53-9f88-b69cdf278be7.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/haber\/ulke-tv.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Haber",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1",
+      "title": "TRT 11",
+      "description": "TRT 1 CANLI YAYIN",
+      "thumbnailUrl": "https:\/\/www.canlitv.my\/kanal\/logo\/5.jpg",
+      "videoUrl": "https:\/\/storyteller00564.droply.top\/d\/h6zne5y2o7hvw4m6k2xmply5ymle5tvaaadosj3cvd7mz3au2vq3edsm76vdmuc7rwgtijp3\/Iron%20Fist%20S01E01%20720p.mkv%20-%20Google%20Drive.mp4",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Halil",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "14",
+      "title": "TRT Müzik",
+      "description": "TRT Müzik CANLI YAYIN",
+      "thumbnailUrl": "https:\/\/tv.canlitv.vip\/poster\/trt-muzik.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/muzik\/trt-muzik.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Müzik",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "11",
+      "title": "TRT Spor",
+      "description": "TRT Spor CANLI YAYIN",
+      "thumbnailUrl": "https:\/\/asset.artidijitalmedya.com\/image\/400x400\/channels\/v1\/logo_226.png?v=4",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/spor\/trt-spor.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Spor",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "19",
+      "title": "360 TV",
+      "description": "360 TV CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/ulusal\/360-tv.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Ulusal",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "17",
+      "title": "Beyaz TV",
+      "description": "Beyaz TV CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/ulusal\/beyaz-tv.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Ulusal",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "22",
+      "title": "Euro D",
+      "description": "Euro D CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/f4a83153-48c6-4ece-8082-1b370768f88a.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/ulusal-yurt-disi\/euro-d.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Ulusal",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "18",
+      "title": "Kanal 7",
+      "description": "Kanal 7 CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/1125734c-3525-4390-b8ed-c50380c70e4d.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/ulusal\/kanal-7.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Ulusal",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "25",
+      "title": "Kanal 7 Avrupa",
+      "description": "Kanal 7 Avrupa CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/ulusal-yurt-disi\/kanal-7-avrupa.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Ulusal",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "16",
+      "title": "Now TV",
+      "description": "Now TV CANLI YAYIN",
+      "thumbnailUrl": "https:\/\/images.seeklogo.com\/logo-png\/51\/1\/now-tv-turkey-logo-png_seeklogo-519520.png",
+      "videoUrl": "https:\/\/uycyyuuzyh.turknet.ercdn.net\/nphindgytw\/nowtv\/nowtv_720p.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Ulusal",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "4",
+      "title": "Show TV",
+      "description": "Show TV CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/9d873881-bb5e-40f0-88db-8c47aa215e5a.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/ulusal\/show-tv.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Ulusal",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "24",
+      "title": "Show Türk",
+      "description": "Show Türk CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/d4d340ec-891e-4601-9776-e979a750b7e3.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/ulusal-yurt-disi\/show-turk.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Ulusal",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "5",
+      "title": "Star TV",
+      "description": "Star TV CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/0c5204fb-e613-4084-b300-8cdcc46309f9.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/ulusal\/star-tv.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Ulusal",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "21",
+      "title": "TRT Avaz",
+      "description": "TRT Avaz CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/ulusal-yurt-disi\/trt-avaz.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Ulusal",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "15",
+      "title": "TRT Türk",
+      "description": "TRT Türk CANLI YAYIN",
+      "thumbnailUrl": "https:\/\/cms-tabii-public-image.tabii.com\/int\/w750\/q80\/23858_1-0-465-262.jpeg",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/ulusal-yurt-disi\/trt-turk.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Ulusal",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "6",
+      "title": "TV8",
+      "description": "TV8 CANLI YAYIN",
+      "thumbnailUrl": "http:\/\/assets.tvcdn.net\/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/ulusal\/tv8.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Ulusal",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "film1",
+      "title": "Spider Man 2",
+      "description": "Az Star TV CANLI YAYIN",
+      "thumbnailUrl": "https:\/\/www.4kfilmizlesene.org\/wp-content\/uploads\/2020\/12\/Spider-Man-2-2004-236x350.jpeg",
+      "videoUrl": "http:\/\/sorunsuztv.xyz:8080\/movie\/Cembicakci2023\/eEvrg5RqgTTe\/425395.mkv",
+      "type": "movie",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Yabancı Filmler",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "13",
+      "title": "TRT Çocuk",
+      "description": "TRT Çocuk CANLI YAYIN",
+      "thumbnailUrl": "https:\/\/tv.canlitv.vip\/poster\/trt-cocuk.png",
+      "videoUrl": "http:\/\/stream.tvcdn.net\/cocuk\/trt-cocuk.m3u8",
+      "type": "tv",
+      "addedDate": "2024-02-21T12:00:00.000Z",
+      "additionalInfo": {
+          "Kategori": "Çocuk",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741463296577",
+      "title": "Ters Yüz 2",
+      "description": "Ters Yüz 2 İzle",
+      "thumbnailUrl": "https:\/\/filmekseni.net\/uploads\/poster\/ters-yuz-2_list.jpg",
+      "videoUrl": "https:\/\/cdn991.balcanliselo.online\/uploads\/encode\/vhdcr8jch8gr71rc3d72\/master.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T19:48:16.577Z",
+      "additionalInfo": {
+          "Kategori": "Animasyon",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741463296578",
+      "title": "Plankton",
+      "description": "Plankton",
+      "thumbnailUrl": "https:\/\/filmekseni.net\/uploads\/poster\/plankton-film_list.jpg",
+      "videoUrl": "https:\/\/cdn991.balcanliselo.online\/uploads\/encode\/dlrj2owy3phbvfjzoq7i\/master.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T21:15:07+01:00",
+      "additionalInfo": {
+          "Kategori": "Animasyon",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741463296579",
+      "title": "Deadpool ve Wolverine",
+      "description": "Deadpool ve Wolverine",
+      "thumbnailUrl": "https:\/\/filmekseni.net\/uploads\/poster\/deadpool-and-wolverine-izle_list.jpg",
+      "videoUrl": "https:\/\/cdn991.balcanliselo.online\/uploads\/encode\/tc1w31rdp5t4cwuhkzw7\/master.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T21:19:53+01:00",
+      "additionalInfo": {
+          "Kategori": "Yabancı Filmler",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741469239320",
+      "title": "Terrifier",
+      "description": "Terrifier İzle",
+      "thumbnailUrl": "https:\/\/webteizle.click\/i\/afis\/b\/a6517.jpg",
+      "videoUrl": "https:\/\/cdn667.argamdavay.click\/1561\/1080p.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T21:27:19.320Z",
+      "additionalInfo": {
+          "Kategori": "Korku",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741469239321",
+      "title": "Tek Yön",
+      "description": "Tek Yön",
+      "thumbnailUrl": "https:\/\/filmekseni.net\/uploads\/poster\/one-way_list.jpg",
+      "videoUrl": "https:\/\/cdn991.balcanliselo.online\/uploads\/encode\/26ub6tptpnks997y1sse\/master.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T22:32:08+01:00",
+      "additionalInfo": {
+          "Kategori": "Yabancı Filmler",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741469753100",
+      "title": "Komşunun İyisi",
+      "description": "Komşunun İyisi İzle",
+      "thumbnailUrl": "https:\/\/www.dizifilmbox.top\/wp-content\/uploads\/2023\/07\/The-Good-Neighbor-izle-236x350.jpg",
+      "videoUrl": "https:\/\/vega-5.getromes.space\/hls\/xqx2ppzjebokjiqbtfxcb4ae4kss3u4rqg4jakgjberkqk2aeclqdztuzabq\/index-v1-a1.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T21:35:53.100Z",
+      "additionalInfo": {
+          "Kategori": "Gerilim",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741469753101",
+      "title": "Özgürlügün Elli Tonu",
+      "description": "Anastasia ve Christian, yaşadıkları zorlu ayrılıkların ve iniş çıkışların ardından nihayet mutlu sona ulaşmışlardır. Tutkulu aşkları, nikah yüzükleri ve görkemli bir evlilik töreni ile mutlu sona ulaşmıştır. Ancak Anastasia'nın peşine düşen Jack, çifte huzur vermez. Anastasia'nın lüks ve aşkla bezeli mükemmel hayatı bir kez daha sarsıntılara sahne olacaktır.",
+      "thumbnailUrl": "https:\/\/www.dizifilmbox.top\/wp-content\/uploads\/2019\/08\/3ff45d2b721e9a4b422cec344dff235c-65x80.jpg",
+      "videoUrl": "https:\/\/cdn991.balcanliselo.online\/uploads\/encode\/2kbtmamropnwmb69dcok\/master.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T22:37:23+01:00",
+      "additionalInfo": {
+          "Kategori": "Yabancı Filmler",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741470079916",
+      "title": "Soğuk Nehir",
+      "description": "Soğuk Nehir İzle",
+      "thumbnailUrl": "https:\/\/fullhdfilmizlede.net\/uploads\/filmler\/so-cold-the-river.jpg",
+      "videoUrl": "https:\/\/vega-1.getromes.space\/hls\/xqx2oik7ebokjiqbtfssbiqnvhsavdunt2spje3ga2ynvtysbbhpjdano6iq\/index-v1-a1.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T21:41:19.916Z",
+      "additionalInfo": {
+          "Kategori": "Dram",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741470339813",
+      "title": "Dadının Böylesi",
+      "description": "Dadının Böylesi İzle",
+      "thumbnailUrl": "https:\/\/filmekseni.net\/uploads\/poster\/der-nanny_list.webp",
+      "videoUrl": "https:\/\/box-wi-967.vmeas.cloud\/hls\/xqx2p5tyenokjiqbtf2cb6qc4hefiuvbqmcgae3f2jidq7pt2mhsgv64thna\/index-v1-a1.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T21:45:39.813Z",
+      "additionalInfo": {
+          "Kategori": "Aile",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741470339814",
+      "title": "Minik Örümcek Şarlot",
+      "description": "Minik Örümcek Şarlot",
+      "thumbnailUrl": "https:\/\/filmekseni.net\/uploads\/poster\/minik-orumcek-sarlot_list.jpg",
+      "videoUrl": "https:\/\/cdn991.balcanliselo.online\/uploads\/encode\/msdbu67rzmd5yx1gsnkj\/master.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T22:47:24+01:00",
+      "additionalInfo": {
+          "Kategori": "Aile",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741470339815",
+      "title": "Evde Tek Başına 5: Tatilde Soygun",
+      "description": "Evde Tek Başına 5: Tatilde Soygun",
+      "thumbnailUrl": "https:\/\/filmekseni.net\/uploads\/poster\/evde-tek-basina-tatilde-soygun_list.jpg",
+      "videoUrl": "https:\/\/cdn991.balcanliselo.online\/uploads\/encode\/bvrpne83u4m1hnumfyfa\/master.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T22:52:23+01:00",
+      "additionalInfo": {
+          "Kategori": "Aile",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741470339816",
+      "title": "Fısıltı Adası",
+      "description": "Fısıltı Adası",
+      "thumbnailUrl": "https:\/\/filmekseni.net\/uploads\/poster\/whisper-island_list.jpg",
+      "videoUrl": "https:\/\/cdn991.balcanliselo.online\/uploads\/encode\/ly7s4q168r4i84w9q8v7\/master.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T22:52:38+01:00",
+      "additionalInfo": {
+          "Kategori": "Aile",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741470339817",
+      "title": "How to Make Millions Before Grandma Dies",
+      "description": "How to Make Millions Before Grandma Dies",
+      "thumbnailUrl": "https:\/\/filmekseni.net\/uploads\/poster\/how-to-make-millions-before-grandma-dies_list.jpg",
+      "videoUrl": "https:\/\/cdn991.balcanliselo.online\/uploads\/encode\/sb7dnl9t3ah839p6c648\/master.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T22:52:54+01:00",
+      "additionalInfo": {
+          "Kategori": "Aile",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741472399899",
+      "title": "Baykuşlar ve Fareler",
+      "description": "Baykuşlar ve Fareler İzle",
+      "thumbnailUrl": "https:\/\/filmekseni.net\/uploads\/poster\/uilenbal_list.webp",
+      "videoUrl": "https:\/\/box-1082-p.vmeas.cloud\/hls\/xqx2pr74ezokjiqbtflsblcaxjwnfb6iy5wtt46esjjvx6hmn5kyb7762wkq\/index-v1-a1.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T22:19:59.899Z",
+      "additionalInfo": {
+          "Kategori": "Aile",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741472443250",
+      "title": "Wonderwell",
+      "description": "Wonderwell izle",
+      "thumbnailUrl": "https:\/\/filmekseni.net\/uploads\/poster\/wonderwell_list.webp",
+      "videoUrl": "https:\/\/box-1181-pd.vmwesa.online\/hls\/xqx2pe55evokjiqbtezsbiq6435rmvnvdxpa6elddzrh4n2fk3zy2z4b2roq\/index-v1-a1.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T22:20:43.250Z",
+      "additionalInfo": {
+          "Kategori": "Aile",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741472801850",
+      "title": "Çılgın Russell",
+      "description": "Çılgın Russell İzle",
+      "thumbnailUrl": "https:\/\/filmekseni.net\/uploads\/poster\/russell-madness_list.webp",
+      "videoUrl": "https:\/\/box-1102-t.vmeas.cloud\/hls\/xqx2oktvevokjiqbtessboaoveg6lbgymu77lazkb43p5wzm3zbma5kbwmja\/index-v1-a1.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T22:26:41.850Z",
+      "additionalInfo": {
+          "Kategori": "Aile",
+          "Ülke": "Türkiye"
+      }
+  },
+  {
+      "id": "1741472869024",
+      "title": "Fear",
+      "description": "Fear İzle",
+      "thumbnailUrl": "https:\/\/filmekseni.net\/uploads\/poster\/fear-2024_list.webp",
+      "videoUrl": "https:\/\/box-1183-rp.vmwesa.online\/hls\/xqx2ptxufjokjiqbtercbkaox7jl3xuuql2kfy6dxitaemybbrbghdl2bikq\/index-v1-a1.m3u8",
+      "type": "movie",
+      "addedDate": "2025-03-08T22:27:49.024Z",
+      "additionalInfo": {
+          "Kategori": "Aile",
+          "Ülke": "Türkiye"
+      }
   }
 ]
