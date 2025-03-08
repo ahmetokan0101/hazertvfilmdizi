@@ -1404,6 +1404,307 @@
                         }
                     ]
                 }
+            ],
+            "series": [
+                {
+                    "name": "Counterpart",
+                    "subcategories": [
+                        {
+                            "name": "Counterpart 1. Sezon",
+                            "icon": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                            "color": "#E50914",
+                            "episodes": [
+                                {
+                                    "id": "counterpart_s1e01",
+                                    "title": "Counterpart 1.Bölüm",
+                                    "description": "Counterpart 1. Sezon 1. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/42706_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s1e02",
+                                    "title": "Counterpart 2.Bölüm",
+                                    "description": "Counterpart 1. Sezon 2. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/40214_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s1e03",
+                                    "title": "Counterpart 3.Bölüm",
+                                    "description": "Counterpart 1. Sezon 3. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/67065_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s1e04",
+                                    "title": "Counterpart 4.Bölüm",
+                                    "description": "Counterpart 1. Sezon 4. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/44948_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s1e05",
+                                    "title": "Counterpart 5.Bölüm",
+                                    "description": "Counterpart 1. Sezon 5. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/39127_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s1e06",
+                                    "title": "Counterpart 6.Bölüm",
+                                    "description": "Counterpart 1. Sezon 6. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/20124_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s1e07",
+                                    "title": "Counterpart 7.Bölüm",
+                                    "description": "Counterpart 1. Sezon 7. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/95437_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s1e08",
+                                    "title": "Counterpart 8.Bölüm",
+                                    "description": "Counterpart 1. Sezon 8. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/32617_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s1e09",
+                                    "title": "Counterpart 9.Bölüm",
+                                    "description": "Counterpart 1. Sezon 9. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/15413_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s1e10",
+                                    "title": "Counterpart 10.Bölüm",
+                                    "description": "Counterpart 1. Sezon 10. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/17476_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Counterpart 2. Sezon",
+                            "icon": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                            "color": "#E50914",
+                            "episodes": [
+                                {
+                                    "id": "counterpart_s2e01",
+                                    "title": "Counterpart 1.Bölüm",
+                                    "description": "Counterpart 2. Sezon 1. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/43011_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s2e02",
+                                    "title": "Counterpart 2.Bölüm",
+                                    "description": "Counterpart 2. Sezon 2. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/90975_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s2e03",
+                                    "title": "Counterpart 3.Bölüm",
+                                    "description": "Counterpart 2. Sezon 3. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/45843_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s2e04",
+                                    "title": "Counterpart 4.Bölüm",
+                                    "description": "Counterpart 2. Sezon 4. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/7476_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s2e05",
+                                    "title": "Counterpart 5.Bölüm",
+                                    "description": "Counterpart 2. Sezon 5. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/45512_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s2e06",
+                                    "title": "Counterpart 6.Bölüm",
+                                    "description": "Counterpart 2. Sezon 6. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/5574_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s2e07",
+                                    "title": "Counterpart 7.Bölüm",
+                                    "description": "Counterpart 2. Sezon 7. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/51375_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s2e08",
+                                    "title": "Counterpart 8.Bölüm",
+                                    "description": "Counterpart 2. Sezon 8. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/44527_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s2e09",
+                                    "title": "Counterpart 9.Bölüm",
+                                    "description": "Counterpart 2. Sezon 9. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/71878_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                },
+                                {
+                                    "id": "counterpart_s2e10",
+                                    "title": "Counterpart 10.Bölüm",
+                                    "description": "Counterpart 2. Sezon 10. Bölüm (Türkçe Dublaj)",
+                                    "thumbnailUrl": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/12/05/16/45/3339232.jpg",
+                                    "videoUrl": "https://storage.diziyou1.com/episodes/41341_tr/720p.m3u8",
+                                    "type": "series",
+                                    "addedDate": "2025-03-08T04:57:52.364Z",
+                                    "additionalInfo": {
+                                        "Kategori": "Netflix",
+                                        "Platform": "Netflix",
+                                        "Tür": "Dram"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
             ]
         },
         {
